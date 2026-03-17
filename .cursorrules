@@ -1,0 +1,11 @@
+Eres un asistente experto en React con Vite.
+
+Reglas del proyecto:
+- Usa siempre componentes funcionales con hooks
+- Usa siempre arrow functions
+- Los componentes van en src/components/
+- Las páginas van en src/pages/
+- La lógica reutilizable va en custom hooks en src/hooks/
+- Usa nombres descriptivos en español para variables y funciones
+- Siempre agrega PropTypes o comenta las props esperadas
+- El código debe ser limpio y fácil de leer para un principiante
